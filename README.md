@@ -42,5 +42,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (ekle)
-- Email: (ekle)
+- LinkedIn: https://www.linkedin.com/in/sercancintosun/
+- Email: sercancintosun000@gmail.com
