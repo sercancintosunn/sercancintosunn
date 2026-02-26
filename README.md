@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sercan Çintosun</h1>
+<h3 align="center">Full Stack Developer | Building Scalable Web Applications</h3>
 
-<!--
-**sercancintosunn/sercancintosunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Software Engineering Student  
+💻 Focused on Full Stack Web Development  
+⚡ Interested in secure, scalable and clean architecture systems  
+📚 Currently learning advanced backend development & system design  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend
+- Node.js
+- Express.js
+- .NET Core
+- REST API Development
+
+### 🎨 Frontend
+- React
+- JavaScript / TypeScript
+- HTML & CSS
+
+### 🗄️ Database
+- MongoDB
+- PostgreSQL
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready full stack applications  
+- Implement authentication & authorization systems  
+- Learn advanced system design concepts  
+- Contribute to open source  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (ekle)
+- Email: (ekle)
